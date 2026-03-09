@@ -1,0 +1,12 @@
+{
+    "posts": [
+        {
+            "slug": "hello-world",
+            "title": "Hello, World! Welcome to My Blog",
+            "excerpt": "My first blog post — a quick intro to who I am and what I'll be writing about.",
+            "content": "Welcome to my blog! I'm Aayan Joshi, a Computer Science student at the University of Texas at Arlington.\n\nI created this space to share my thoughts on technology, projects I'm working on, and things I learn along the way. Whether it's web development, firmware hacking, or just interesting problems I come across in my studies — you'll find it all here.\n\nStay tuned for more posts. Thanks for visiting!",
+            "date": "2026-03-09",
+            "published": true
+        }
+    ]
+}
