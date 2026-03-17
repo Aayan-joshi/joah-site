@@ -10,12 +10,6 @@ const CONTACT_ITEMS = [
     href: "mailto:aayan.joshi@uta.edu",
   },
   {
-    icon: <Phone className="h-5 w-5" />,
-    label: "Phone",
-    value: "(682) 377-3776",
-    href: "tel:+16823773776",
-  },
-  {
     icon: <Linkedin className="h-5 w-5" />,
     label: "LinkedIn",
     value: "linkedin.com/in/aayan-joshi",
